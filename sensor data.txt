@@ -1,0 +1,15 @@
+approximate average values of a 5mm photoresistor
+
+in a flourescent lamp lit room at night: ~5Mohm to ~7Mohm (room light to passing shadow in front of it)
+
+
+
+Voltage at input of light sensor (voltage divider with photoresistor and 6.4Mohm resistor, photoresistor to +5)
+
+darkened room (overcast out windows): 75mV,  when holding hand ~1" above sensor: 50mV
+
+
+same room with the flourescent lights on: 0.46V, 
+	when holding hand ~1" above sensor: 0.15V 
+	standing in front of set it casting my shadow: 0.29V
+	casting shadow AND holding hand near: 0.05V
